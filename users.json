@@ -1,0 +1,24 @@
+{
+    "users": [
+      {
+        "username": "user1",
+        "password": "password1",
+        "isTeacher": false
+      },
+      {
+        "username": "user2",
+        "password": "password2",
+        "isTeacher": false
+      },
+      {
+        "username": "user3",
+        "password": "password3",
+        "isTeacher": false
+      },
+      {
+        "username": "teacher1",
+        "password": "teach1",
+        "isTeacher": true
+      }
+    ]
+  }
